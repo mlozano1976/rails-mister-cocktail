@@ -36,3 +36,9 @@ h2 > a {
 .card-product .card-product-infos {
   padding: 16px;
 }
+.img {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  opacity: .9;
+}
